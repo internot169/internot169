@@ -1,5 +1,5 @@
 - 🌱 I’m currently working on a set of plugins for Microsoft Power Automate, while trying to finish high school! I also help maintain epschedule.com
-- 👯 I’m looking to collaborate on any potential astrophyics research, and any potential quantum computing projects. I'm also very interested in web development internships.
+- 👯 I’m looking to collaborate on any potential Natural Language Processing research. I'm also very interested in web development internships.
 - 📫 How to reach me: angadjosan@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my free time, you can find me geocaching: https://www.geocaching.com/play
