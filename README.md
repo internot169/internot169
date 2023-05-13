@@ -3,3 +3,4 @@
 - 📫 How to reach me: angadjosan@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my free time, you can find me geocaching: https://www.geocaching.com/play
+- Interested in majoring in CS and Applied Math
