@@ -1,6 +1,5 @@
-- 🌱 I’m currently working on a set of plugins for Microsoft Power Automate, while trying to finish high school! I also help maintain epschedule.com
-- 👯 I’m looking to collaborate on any potential Natural Language Processing research. I'm also very interested in web development internships.
-- 📫 How to reach me: angadjosan@outlook.com
+- 👯 I’m very interested in collaborating on machine learning and web development internships
+- 📫 How to reach me: angadjosan@outlook.com. Feel free to ask me for a resume!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my free time, you can find me geocaching: https://www.geocaching.com/play
 - Interested in majoring in CS and Applied Math
