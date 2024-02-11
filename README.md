@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angad Singh Josan</h1>
 <h3 align="center">An NLP, Machine Learning, and backend developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajosan25" alt="ajosan25" /></a> </p>
-
 - 🔭 I’m currently working on **a RAG-based chatbot using Langchain, Qdrant, and ChatGPT.**
 
 - 🌱 I’m currently learning **Rust, R, and Langchain.**
